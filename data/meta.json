@@ -1,10 +1,10 @@
 {
-  "built_at_utc": "2026-10-23T19:46:27.856358+00:00",
-  "last_trade_date": "2026-10-23",
-  "index_rows": 8406,
-  "stock_rows": 884296,
-  "symbols": 3719,
-  "history_from": "2025-09-18",
+  "built_at_utc": "2026-10-26T19:34:33.286088+00:00",
+  "last_trade_date": "2026-10-26",
+  "index_rows": 8384,
+  "stock_rows": 881987,
+  "symbols": 3718,
+  "history_from": "2025-09-22",
   "indices_not_found_in_nse_file": [
     "Nifty Hospital"
   ],
