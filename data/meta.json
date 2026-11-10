@@ -1,8 +1,8 @@
 {
-  "built_at_utc": "2026-11-09T23:58:06.462714+00:00",
+  "built_at_utc": "2026-11-10T20:37:16.550829+00:00",
   "last_trade_date": "2026-11-09",
   "index_rows": 8483,
-  "stock_rows": 890416,
+  "stock_rows": 893851,
   "symbols": 3752,
   "history_from": "2025-10-06",
   "indices_not_found_in_nse_file": [
@@ -58,5 +58,5 @@
     "Nifty Capital Markets"
   ],
   "non_trading_days_probed": [],
-  "corporate_action_events": 22063
+  "corporate_action_events": 23173
 }
