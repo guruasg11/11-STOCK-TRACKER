@@ -1,8 +1,8 @@
 {
-  "built_at_utc": "2026-11-16T23:58:57.020354+00:00",
-  "last_trade_date": "2026-11-16",
-  "index_rows": 8482,
-  "stock_rows": 893229,
+  "built_at_utc": "2026-11-17T21:55:19.293384+00:00",
+  "last_trade_date": "2026-11-17",
+  "index_rows": 8518,
+  "stock_rows": 896682,
   "symbols": 3753,
   "history_from": "2025-10-13",
   "indices_not_found_in_nse_file": [
