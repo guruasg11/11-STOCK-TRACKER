@@ -1,9 +1,9 @@
 {
-  "built_at_utc": "2026-11-25T00:20:27.311076+00:00",
-  "last_trade_date": "2026-11-23",
-  "index_rows": 8488,
-  "stock_rows": 896528,
-  "symbols": 3753,
+  "built_at_utc": "2026-11-25T22:46:03.468332+00:00",
+  "last_trade_date": "2026-11-25",
+  "index_rows": 8524,
+  "stock_rows": 899982,
+  "symbols": 3755,
   "history_from": "2025-10-21",
   "indices_not_found_in_nse_file": [
     "Nifty Hospital"
@@ -57,8 +57,6 @@
     "Nifty Retail",
     "Nifty Capital Markets"
   ],
-  "non_trading_days_probed": [
-    "2026-11-25"
-  ],
+  "non_trading_days_probed": [],
   "corporate_action_events": 24531
 }
